@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='eahpgocmohokfnggjjhbnehmejfkoekk'>
+    <updatecheck codebase='https://raw.github.com/0-07/Adblock-Light-for-Chrome/master/Adblock_Light.crx' version='1.6.1' />
+  </app>
+</gupdate>
